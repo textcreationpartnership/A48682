@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A List of the parliament of women</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48682</idno>
+            <idno type="STC">Wing L2481</idno>
+            <idno type="STC">ESTC R36479</idno>
+            <idno type="EEBO-CITATION">15699753</idno>
+            <idno type="OCLC">ocm 15699753</idno>
+            <idno type="VID">104456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A List of the parliament of women</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter is dated: London, June 18, 1695.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104456:1"/>
+            <head>A LIST of the Parliament of WOMEN.</head>
+            <p>FOraſmuch as by the Laws of Nature, Women have a great ſhare in the Creation, and that they eat, drink, ſleep, talk, and do all the other Deeds of Nature, and natural Acts, as well as Man, having, to their great grief, ſeen the vile miſcarriages of the Lordly and domineer<g ref="char:EOLhyphen"/>ing Creature, Man, who hath very tyrannically excluded them from both Arts and Arms, and ſuffered none of them to uſe any other Ra<g ref="char:EOLhyphen"/>pier, but a Needle, nor any Lance, but a Diſtaff, nor ſuffer'd them to come into the Pulpit, or to the Bar, though they have believed al<g ref="char:EOLhyphen"/>ways, and do ſtill believe, that they are able both to preach and plead, as well as many Men, having the member of the Tongue as looſly hung, and as long, brood, and exact, in all its dimenſions, as man's; and they have alſo had, and ſtill have a firm belief and opinion, that their Hearts are as big, and contain as much ſpirits and ſtoutneſs as man's; and alſo that their Skulls are as full of brains, and have as much wit and ſubtil<g ref="char:EOLhyphen"/>ty, as any Man whatſoever. All this being Ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely and ſeriouſly conſider'd; and having alſo read of the famous <hi>Amazonian</hi> Kingdom, on the Banks of <hi>Thermodoon,</hi> and how well they were able to rule and manage the Affairs of the Common-wealth; and alſo, that among their Noble Anceſtors, the Ancient <hi>Cauls</hi> and <hi>Saxons,</hi> the Women uſed to ſit as Judges, and had a great ſtroke in the Affairs, and management of the Common-wealth. And now ſeeing the many miſcarriages of late of the Men of this Kingdom, and that they have not ordered their Affairs to the content of all; and believing, they could manage Matters much better, they have, with one Conſent, laid their Heads together, and reſolved to congregate them<g ref="char:EOLhyphen"/>ſelves, and to meddle with the Affairs of the Common-wealth, and to place themſelves at the Helm of Government, and to endeavour to regain-their long loſt Liberty. And having lately ſearched all the Records of <hi>
+                  <g ref="char:V">Ʋ</g>topia,</hi> they found an Ancient Writ of Queen <hi>Mabs,</hi> which they have ſent to all Parts, both of City and Countrey, for the Women to chooſe their Repreſentatives, forthwith to repair to <hi>London-Bridge,</hi> and there to ſit, and order the Affairs, for the Good of the People, and for the Honour, Welfare, Reputation and Benefit of Woman-kind. In purſuance of this Anci<g ref="char:EOLhyphen"/>ent Writ of Queen <hi>Mabs,</hi> the ſeveral Places both City and Countrey, have choſen their Female Repreſentatives, a Liſt of whom, as they came to our Hands, are here publiſhed.</p>
+            <list>
+               <head>For the Liberties of <hi>Alſati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 6</head>
+               <item>Madam <hi>Need<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ye-cloſe.</hi>
+               </item>
+               <item>Mrs <hi>Shift.</hi>
+               </item>
+               <item>Madam <hi>Qwe-much.</hi>
+               </item>
+               <item>Mrs. <hi>Spend-thrift.</hi>
+               </item>
+               <item>Mrs. <hi>Penny-leſs.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Bedlam</hi> 8</head>
+               <item>Madam <hi>Melancholy.</hi>
+               </item>
+               <item>Madam <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ancy-f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </item>
+               <item>Madam <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe-wit.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ick-ſiraw.</hi>
+               </item>
+               <item>Mrs. <hi>Roarer.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umb-ſid.</hi>
+               </item>
+               <item>Mrs. <hi>Tear-Coat.</hi>
+               </item>
+               <item>Mrs. <hi>Stark-mad.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Pillingsgate.</hi> 6</head>
+               <item>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar-co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f.</hi>
+               </item>
+               <item>Mrs. <hi>Thunder-clip.</hi>
+               </item>
+               <item>Mrs. <hi>Oyſter ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </item>
+               <item>Mrs. <hi>Scold-well.</hi>
+               </item>
+               <item>Mrs. <hi>Rake-h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </item>
+               <item>Mrs. <hi>Stink-ill.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Bridewell</hi> 4</head>
+               <item>Mrs. <hi>Poor-Whore.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound hemp.</hi>
+               </item>
+               <item>Mrs. <hi>Common.</hi>
+               </item>
+               <item>Mrs. <hi>Serve-turn.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Puddle-dock</hi> 2</head>
+               <item>Mrs. <hi>Carman.</hi>
+               </item>
+               <item>Mrs. <hi>Sweep-chimney.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Kent ſtreet</hi> 4</head>
+               <item>Mrs. <hi>Make-Sieve.</hi>
+               </item>
+               <item>Mrs. <hi>Rotten.</hi>
+               </item>
+               <item>Mrs. <hi>Old-Bawd.</hi>
+               </item>
+               <item>Mrs. <hi>Rake-Kennell.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the whole City of <hi>London</hi> 12</head>
+               <item>The Lady <hi>Cold-chain.</hi>
+               </item>
+               <item>Madam <hi>Look high.</hi>
+               </item>
+               <item>Madam <hi>Ruſſel-ſilk.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rincocks.</hi>
+               </item>
+               <item>Mrs. <hi>Zealous.</hi>
+               </item>
+               <item>Mrs. <hi>Carp.</hi>
+               </item>
+               <item>Madam <hi>Fat-well.</hi>
+               </item>
+               <item>Madam Finicall.</item>
+               <item>Madam <hi>Court Ape.</hi>
+               </item>
+               <item>Mrs. <hi>Snip well.</hi>
+               </item>
+               <item>Mrs. <hi>Tittle-tattle.</hi>
+               </item>
+               <item>Mrs. <hi>Powt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Wapping</hi> 6</head>
+               <item>Mrs. <hi>Sail-well.</hi>
+               </item>
+               <item>Mrs. <hi>Ship-wright.</hi>
+               </item>
+               <item>Mrs. <hi>Tar-Box.</hi>
+               </item>
+               <item>Mrs. <hi>Boat-ſwain.</hi>
+               </item>
+               <item>Mrs. <hi>Talk-apace.</hi>
+               </item>
+               <item>Mrs. <hi>Cable.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> 12</head>
+               <item>Lady <hi>Know-all.</hi>
+               </item>
+               <item>Madam <hi>Shallow.</hi>
+               </item>
+               <item>Madam <hi>Spu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewell.</hi>
+               </item>
+               <item>Mrs. <hi>Put-Caſe.</hi>
+               </item>
+               <item>Mrs. <hi>Ignorance.</hi>
+               </item>
+               <item>Madam Formal.</item>
+               <item>Madam <hi>Learn-tongue.</hi>
+               </item>
+               <item>Madam <hi>Old-Dunce.</hi>
+               </item>
+               <item>Madam <hi>Quarrelſome.</hi>
+               </item>
+               <item>Mrs. <hi>Syllogiſm.</hi>
+               </item>
+               <item>Mrs. <hi>Confidence.</hi>
+               </item>
+               <item>Madam <hi>Empty.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>Inns of Court</hi> 8</head>
+               <item>Mrs. <hi>Parchment.</hi>
+               </item>
+               <item>Mrs. <hi>Law-Caſe.</hi>
+               </item>
+               <item>Mrs. <hi>Follow-Suit.</hi>
+               </item>
+               <item>Mrs. <hi>Black-acre.</hi>
+               </item>
+               <item>Mrs. <hi>Seal-Wax.</hi>
+               </item>
+               <item>Mrs. <hi>Record.</hi>
+               </item>
+               <item>Mrs. <hi>Troubleſome.</hi>
+               </item>
+               <item>Mrs. <hi>Quarrelſome.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Covent-Garden</hi> 8</head>
+               <item>Madam <hi>Stately.</hi>
+               </item>
+               <item>Lady <hi>All-Tongue.</hi>
+               </item>
+               <item>Madam <hi>Little wit.</hi>
+               </item>
+               <item>Mrs. <hi>Little-ſence.</hi>
+               </item>
+               <item>Lady <hi>Proud-tail.</hi>
+               </item>
+               <item>Lady <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ift-tail.</hi>
+               </item>
+               <item>Madam <hi>Blunder-wit.</hi>
+               </item>
+               <item>Mrs. <hi>Whirligig.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Lincolns-Inn</hi>-Fields 8</head>
+               <item>The L. <hi>Speak-french.</hi>
+               </item>
+               <item>Lady <hi>Proud-fool.</hi>
+               </item>
+               <item>Mrs. <hi>White-hand.</hi>
+               </item>
+               <item>Mrs. <hi>Dance-well.</hi>
+               </item>
+               <item>Madam <hi>Know-little.</hi>
+               </item>
+               <item>Madam <hi>Gaze-about.</hi>
+               </item>
+               <item>Mrs. <hi>Stately.</hi>
+               </item>
+               <item>Mrs. <hi>Ambler.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>North-Countrey</hi> 10</head>
+               <item>Madam <hi>Coal-pits.</hi>
+               </item>
+               <item>Mrs. <hi>Talk-much.</hi>
+               </item>
+               <item>Mrs. <hi>Old-faſhion.</hi>
+               </item>
+               <item>Mrs. <hi>Drink-all.</hi>
+               </item>
+               <item>Mrs. <hi>Self-Love.</hi>
+               </item>
+               <item>Madam <hi>Gripe-all.</hi>
+               </item>
+               <item>Mrs. <hi>Hard-Hand.</hi>
+               </item>
+               <item>Mrs. <hi>Cloſe fiſt.</hi>
+               </item>
+               <item>Mrs. <hi>Shift-well.</hi>
+               </item>
+               <item>Mrs. <hi>Hopwell.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberty of <hi>Moor-fields</hi> 4</head>
+               <item>Mrs. <hi>Night-Walker.</hi>
+               </item>
+               <item>Mrs. <hi>Lift-Latch.</hi>
+               </item>
+               <item>Mrs. <hi>Pick-pocket.</hi>
+               </item>
+               <item>Mrs. <hi>Pick up.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Hockley in the Hole</hi> 4</head>
+               <item>Mrs. <hi>Grain-Tub.</hi>
+               </item>
+               <item>Mrs. <hi>Tear-ſheet.</hi>
+               </item>
+               <item>Mrs. <hi>Frothwell.</hi>
+               </item>
+               <item>Mrs. <hi>Trim-tram.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>Royal-Exchange</hi> 6</head>
+               <item>Madam <hi>Cheat-well.</hi>
+               </item>
+               <item>Madam <hi>Dear-ſell.</hi>
+               </item>
+               <item>Mrs <hi>Draw-Glove.</hi>
+               </item>
+               <item>Mrs. <hi>Fine-Word.</hi>
+               </item>
+               <item>Mrs. <hi>Lazy.</hi>
+               </item>
+               <item>Mrs. <hi>Lye-a-bed.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Turmill-ſtreet</hi> 4</head>
+               <item>Mrs. <hi>Knock-Ox.</hi>
+               </item>
+               <item>Mrs. <hi>Tripe-waſh.</hi>
+               </item>
+               <item>Mrs. <hi>Impudent.</hi>
+               </item>
+               <item>Mrs. <hi>Lye-apace.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>Weſt-Countrey</hi> 10</head>
+               <item>Mrs. <hi>Much-Land.</hi>
+               </item>
+               <item>Mrs. <hi>Turn-penny.</hi>
+               </item>
+               <item>Mrs. <hi>
+                     <g ref="char:V">Ʋ</g>nmannerly.</hi>
+               </item>
+               <item>Mrs. <hi>Speak-broad.</hi>
+               </item>
+               <item>Mrs. <hi>Court-hate.</hi>
+               </item>
+               <item>Lady <hi>Muck-worth.</hi>
+               </item>
+               <item>Mrs. <hi>Love-chink.</hi>
+               </item>
+               <item>Mrs. <hi>Rudeneſs.</hi>
+               </item>
+               <item>Mrs. <hi>Hoard-Corn.</hi>
+               </item>
+               <item>Mrs. <hi>Jobbernole.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Liberties of <hi>Weſtminſter</hi> 12</head>
+               <item>Lady <hi>Court-well.</hi>
+               </item>
+               <item>Lady <hi>Haughty.</hi>
+               </item>
+               <item>Lady <hi>Medler.</hi>
+               </item>
+               <item>Mrs. <hi>Proud-wit.</hi>
+               </item>
+               <item>Mrs. <hi>Sly.</hi>
+               </item>
+               <item>Mrs. <hi>Preciſe.</hi>
+               </item>
+               <item>Madam <hi>Fidget.</hi>
+               </item>
+               <item>Madam <hi>Patch-face.</hi>
+               </item>
+               <item>Madam <hi>Know-much.</hi>
+               </item>
+               <item>Mrs. <hi>Fair-face.</hi>
+               </item>
+               <item>Mrs. <hi>Turn-up.</hi>
+               </item>
+               <item>Mrs. <hi>Turbulent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Whetstones-Park</hi> 4</head>
+               <item>Mrs. <hi>Greaſie.</hi>
+               </item>
+               <item>Mrs. <hi>Fire-ſhip.</hi>
+               </item>
+               <item>Mrs. <hi>Bold-face.</hi>
+               </item>
+               <item>Mrs. <hi>Turn-Stomach.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Southwark</hi> 6</head>
+               <item>Madam <hi>Nimble-Tongue.</hi>
+               </item>
+               <item>Madam <hi>Hold-forth.</hi>
+               </item>
+               <item>Mrs. <hi>Long-Tongue.</hi>
+               </item>
+               <item>Mrs. <hi>Slender.</hi>
+               </item>
+               <item>Mrs <hi>Conventicle.</hi>
+               </item>
+               <item>M. <hi>Strong-lungs.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Kent</hi> 4</head>
+               <item>Mrs. <hi>Long-Tail.</hi>
+               </item>
+               <item>Mrs. <hi>Love-Acre.</hi>
+               </item>
+               <item>Mrs. <hi>Cherry-Lip.</hi>
+               </item>
+               <item>Mrs. <hi>Hoyden.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>East-Countrey</hi> 6</head>
+               <item>Mrs. <hi>Trench-more.</hi>
+               </item>
+               <item>Mrs. <hi>Talk-ſtill.</hi>
+               </item>
+               <item>Mrs. <hi>Politick.</hi>
+               </item>
+               <item>Mrs. <hi>Gill-flirt.</hi>
+               </item>
+               <item>Mrs. <hi>Go-Clack.</hi>
+               </item>
+               <item>Lady Frenchifie.</item>
+            </list>
+            <list>
+               <head>For the <hi>South-parts</hi> 6</head>
+               <item>Lady Fickle.</item>
+               <item>Mrs Freak.</item>
+               <item>Mrs. <hi>French-Love.</hi>
+               </item>
+               <item>Lady <hi>Courtly.</hi>
+               </item>
+               <item>Mrs. <hi>City-Love.</hi>
+               </item>
+               <item>Mrs. <hi>Slattern.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For <hi>Wales.</hi> 6</head>
+               <item>Mrs. <hi>Splutter-Nails.</hi>
+               </item>
+               <item>Mrs. <hi>Harſh-Tongue.</hi>
+               </item>
+               <item>Mrs. <hi>Pedigree.</hi>
+               </item>
+               <item>Mrs. <hi>Gibberiſh.</hi>
+               </item>
+               <item>Mrs. <hi>Lecks.</hi>
+               </item>
+               <item>Mrs. <hi>Quarrelſome.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the <hi>midland-parts.</hi> 4</head>
+               <item>Madam <hi>Love-Coach.</hi>
+               </item>
+               <item>Madam <hi>Look-High.</hi>
+               </item>
+               <item>Mrs. <hi>Senſleſs.</hi>
+               </item>
+               <item>Mrs. <hi>Buſie-Body.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the two <hi>Play-Houſes.</hi> 8</head>
+               <item>Lady <hi>Wriggle-Rump.</hi>
+               </item>
+               <item>Madam <hi>Kept-well.</hi>
+               </item>
+               <item>Mrs. <hi>Speak-loud.</hi>
+               </item>
+               <item>Mrs. <hi>Lampoon.</hi>
+               </item>
+               <item>Lady <hi>Tread-Stage.</hi>
+               </item>
+               <item>Madam <hi>Rime-wel.</hi>
+               </item>
+               <item>Mrs. <hi>Play-make.</hi>
+               </item>
+               <item>Mrs. <hi>Love-Song.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For the Borough of <hi>So-ho.</hi> 4</head>
+               <item>Mrs. <hi>Never-be-quiet.</hi>
+               </item>
+               <item>Mrs. <hi>To't-again,</hi> Clerk</item>
+               <item>Mrs. <hi>Fight-well.</hi>
+               </item>
+               <item>Mrs. <hi>Holloo my Dog.</hi>
+               </item>
+            </list>
+            <p>The whole Number amounting to 174. according to the Summons of the aforeſaid Writ, met together at a convenient Place on <hi>London-Bridge,</hi> whoſe roaring Noiſe was moſt agreeable to the Harmony of their Tongues, and which they politickly choſe, that it might allay the ſhrill Thunder of their Voices, which elſe would too loudly reſound over the City, to the Affrightment of the Men. After much Debate, and great Diſputes, they at laſt choſe the Lady <hi>All Tongue</hi> for their Speaker, and ſo Adjourned till the next Week: What Acts, Speeches, Remonſtrances, Bills and Orders, may be performed, made and done by them, Time will produce.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> T. N. <hi>Anno Domini</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
